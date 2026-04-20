@@ -1,0 +1,3 @@
+echo CPU usage: 35% - normal
+Memory usage: 60% - moderate
+Disk usage: 70% - warning level
